@@ -2,7 +2,7 @@
 
 Find something worth cooking on your way up the mountain.
 
-[Browse the cookbook](https://rainbowcoke.github.io/cairn-cookbook/)
+[Browse the cookbook](https://rainbowcoke.github.io/cairn-cookbook/) or [download the offline edition](https://rainbowcoke.github.io/cairn-cookbook/offline/cairn-cookbook-offline.html) to keep a copy that works without an internet connection.
 
 Explore 719 recipes for 58 foods and drinks, with 122 variations. See which ingredients you need and what each meal or drink does before you use your supplies.
 
